@@ -273,6 +273,6 @@
     <string name="customise_protected_why_title">为什么这些项目受到保护？</string>
     <string name="customise_group_home">主屏幕</string>
     <string name="customise_dock_row">{names}</string>
-    <string name="customise_dock_row_rows">第 {row} 行：{names}，总共 {rows} 行，另有 {count, plural, one {# 个应用} other {# 个应用}}</string>
+    <string name="customise_dock_row_rows">停靠栏：{names}，下方还有 {count, plural, one {# 个应用} other {# 个应用}}，位于下方 {rows, plural, one {一行} other {多行}}</string>
     <string name="customise_dock_row_empty">停靠栏中尚未添加应用。</string>
 </resources>
