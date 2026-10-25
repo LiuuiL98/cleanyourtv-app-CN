@@ -263,7 +263,7 @@
     <string name="candidate_careful_note">谨慎策略意味着只关闭我们对该品牌电视有把握的项目，与 0.3.4 版本相同。</string>
 
     <string name="customise_group_streaming">流媒体服务</string>
-    <string name="customise_group_brand_features">品牌附加功能</string>
+    <string name="customise_group_brand_features">{brand} 品牌附加功能</string>
     <string name="customise_updates_note">关闭更新可能导致电视无法及时获得安全修复和功能更新。建议保留此项。</string>
     <string name="customise_wizard_name">初始化向导</string>
     <string name="customise_wizard_line">初始化向导</string>
@@ -272,7 +272,7 @@
     <string name="customise_protected_pill">已保护</string>
     <string name="customise_protected_why_title">为什么这些项目受到保护？</string>
     <string name="customise_group_home">主屏幕</string>
-    <string name="customise_dock_row">停靠栏：{dock}</string>
-    <string name="customise_dock_row_rows">停靠栏：{dock}，下方还有 {count, plural, one {# 个应用} other {# 个应用}}</string>
+    <string name="customise_dock_row">{names}</string>
+    <string name="customise_dock_row_rows">第 {row} 行：{names}，总共 {rows} 行，另有 {count, plural, one {# 个应用} other {# 个应用}}</string>
     <string name="customise_dock_row_empty">停靠栏中尚未添加应用。</string>
 </resources>
